@@ -61,7 +61,7 @@ git clone https://github.com/amirsamgoharpey/duco-wallet
 Install required packages:
 
 ```bash
-pip install requests colorama
+pip install requests colorama keyboard
 ```
 
 Run:
@@ -91,6 +91,7 @@ The application does **not** save your password.
 - Python 3.x
 - requests
 - colorama
+- keyboard
 
 ---
 
